@@ -1,0 +1,4 @@
+/node_modules
+.env
+calcServer.pem
+cargadocsaws.txt
